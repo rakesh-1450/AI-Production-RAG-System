@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What are the office timings?",
+    "expected_keywords": ["9:30 AM", "6:00 PM"],
+    "expected_sources": ["hr_policy.txt"]
+  },
+  {
+    "question": "How many annual paid leaves do employees get?",
+    "expected_keywords": ["24"],
+    "expected_sources": ["hr_policy.txt"]
+  },
+  {
+    "question": "How many days per week can employees work remotely?",
+    "expected_keywords": ["three"],
+    "expected_sources": ["hr_policy.txt"]
+  },
+  {
+    "question": "What authentication is mandatory for internal platforms?",
+    "expected_keywords": ["two-factor"],
+    "expected_sources": ["hr_policy.txt"]
+  },
+  {
+    "question": "When is the daily stand-up meeting?",
+    "expected_keywords": ["10:00 AM"],
+    "expected_sources": ["onboarding.txt"]
+  },
+  {
+    "question": "What is required before merging code into production?",
+    "expected_keywords": ["code review"],
+    "expected_sources": ["onboarding.txt"]
+  },
+  {
+    "question": "Which cloud platform is used for deployments?",
+    "expected_keywords": ["AWS"],
+    "expected_sources": ["technical_wiki.txt"]
+  },
+  {
+    "question": "What is Redis used for?",
+    "expected_keywords": ["caching"],
+    "expected_sources": ["technical_wiki.txt"]
+  }
+]

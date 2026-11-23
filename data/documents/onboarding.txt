@@ -1,0 +1,31 @@
+NIMBUS LABS EMPLOYEE ONBOARDING GUIDE (fictional sample company)
+
+All new employees must complete onboarding within their first two weeks.
+
+The IT department issues official company credentials on the first day.
+
+Access to internal platforms is granted after identity verification.
+
+New hires must configure multi-factor authentication during account setup.
+
+Employees must read the HR policy and the security guidelines before receiving system access.
+
+Engineering hires are assigned GitHub repositories and development environments.
+
+All employees must install the approved security and productivity software.
+
+Initial training covers project workflow, communication standards, and deployment procedures.
+
+The daily stand-up meeting takes place every morning at 10:00 AM.
+
+Employees submit a short weekly progress update to their team lead.
+
+The engineering team follows Agile sprints that last two weeks.
+
+Code reviews are mandatory before merging any change into the production branch.
+
+Internal documentation is maintained in the company knowledge portal.
+
+Support requests must be submitted through the internal ticketing system.
+
+Every new employee is paired with a technical mentor for the first three months.

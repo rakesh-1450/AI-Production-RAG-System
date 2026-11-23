@@ -1,0 +1,35 @@
+NIMBUS LABS TECHNICAL WIKI (fictional sample company)
+
+The backend infrastructure is built primarily with Python and FastAPI services.
+
+Frontend applications are developed with React and TypeScript.
+
+Machine learning services use PyTorch and Hugging Face Transformers.
+
+Internal APIs follow RESTful design standards.
+
+FAISS is used for vector similarity search in the AI retrieval systems.
+
+Redis is used for caching frequently accessed data and API responses.
+
+All backend services are packaged as Docker containers.
+
+CI/CD pipelines run on GitHub Actions.
+
+Cloud deployments are performed on AWS.
+
+Monitoring and logging are handled with Prometheus and Grafana dashboards.
+
+Secrets and sensitive environment variables are stored in a managed secrets vault.
+
+All production APIs require JWT-based authentication.
+
+The AI engineering team orchestrates retrieval pipelines with a modular Python framework.
+
+Cross-encoder reranking models are used to improve retrieval relevance.
+
+Prompt injection filtering is applied before prompts are sent to the language model.
+
+Evaluation pipelines measure faithfulness, answer relevancy, and context recall.
+
+Latency is tracked continuously for every AI inference service.
